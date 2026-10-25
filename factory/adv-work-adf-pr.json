@@ -1,0 +1,15 @@
+{
+	"name": "adv-work-adf-pr",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "740d1e79-8f71-4955-be15-d1979e53a22a",
+		"tenantId": "c635b69a-41ef-487c-967d-7cefa9e2d3e2"
+	}
+}
